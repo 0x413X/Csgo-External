@@ -1,0 +1,5 @@
+﻿  main.cpp
+  menu.cpp
+C:\Users\erika\source\repos\WesselIsKnap\WesselIsKnap\src\menu\menu.cpp(34,18): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  WesselIsKnap.vcxproj -> C:\Users\erika\source\repos\WesselIsKnap\x64\Debug\WesselIsKnap.exe
